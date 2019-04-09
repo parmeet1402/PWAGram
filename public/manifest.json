@@ -20,7 +20,7 @@
             "src": "./src/images/icons/app-icon-96x96.png",
             "type": "image/png",
             "sizes": "96x96"
-        },
+        }, 
         {
             "src": "./src/images/icons/app-icon-144x144.png",
             "type": "image/png",
